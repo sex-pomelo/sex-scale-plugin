@@ -1,9 +1,14 @@
 {
   "name": "@sex-pomelo/sex-scale-plugin",
-  "version": "0.0.4",
+  "version": "0.0.5",
+  "homepage": "https://github.com/sex-pomelo/sex-scale-plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sex-pomelo/sex-scale-plugin.git"
+  },
   "dependencies": {
-    "@sex-pomelo/sex-pomelo-logger": "^0.1.13",
-    "ioredis": "^4.19.2"
+    "@sex-pomelo/sex-pomelo-logger": "^0.1.16",
+    "ioredis": "^5.6.1"
   },
   "description": "sex pomelo scale-plugin ===================",
   "keywords": [
